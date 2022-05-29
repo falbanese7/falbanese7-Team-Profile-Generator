@@ -8,6 +8,8 @@
 
 This is a command-line application that takes in user-provided information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 
+![Finished-HTML-Example](./Images/Screen%20Shot%202022-05-29%20at%205.52.35%20AM.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
