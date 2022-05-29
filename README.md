@@ -34,8 +34,8 @@ This is a command-line application that takes in user-provided information about
 3. Open an integrated terminal
 4. Type node index.js into the terminal
 5. Answer the prompts using your keyboard
-   [!First-prompts](./Images/Screen%20Shot%202022-05-29%20at%205.27.55%20AM.png)
-   [!Last-prompts](./Images/Screen%20Shot%202022-05-29%20at%205.28.34%20AM.png)
+   ![First-prompts](./Images/Screen%20Shot%202022-05-29%20at%205.27.55%20AM.png)
+   ![Last-prompts](./Images/Screen%20Shot%202022-05-29%20at%205.28.34%20AM.png)
 6. An html file will be autoamtically generated in the "dist" folder
 
 ## How to Contribute
