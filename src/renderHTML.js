@@ -3,7 +3,7 @@ function generateEngineerCard(engineer) {
                 <div class="card col-4">
                     <div class="card-body bg-primary text-white">
                         <h5 class="card-title">${engineer.name}</h5>
-                        <p class="card-text">Engineer</p>
+                        <p class="card-text"><ion-icon name="code-slash-outline"></ion-icon> Engineer</p>
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">Company ID: ${engineer.id}</li>
@@ -19,7 +19,7 @@ function generateInternCard(intern) {
                 <div class="card col-4">
                     <div class="card-body bg-primary text-white">
                         <h5 class="card-title">${intern.name}</h5>
-                        <p class="card-text">Intern</p>
+                        <p class="card-text"><ion-icon name="school-outline"></ion-icon> Intern</p>
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">Company ID: ${intern.id}</li>
@@ -35,7 +35,7 @@ function generateManagerCard(manager) {
                 <div class="card col-4">
                     <div class="card-body bg-primary text-white">
                         <h5 class="card-title">${manager.name}</h5>
-                        <p class="card-text">Manager</p>
+                        <p class="card-text"><ion-icon name="cafe-outline"></ion-icon> Manager</p>
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">Company ID: ${manager.id}</li>
@@ -100,6 +100,8 @@ function renderHTML(teamCards) {
                 </div>
             </div>
         </section>
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
         <script src="../index.js" async defer></script>
     </body>
 </html>
