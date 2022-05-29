@@ -100,7 +100,7 @@ function renderHTML(teamCards) {
                 </div>
             </div>
         </section>
-        <script src="../index.js" async defer></script>
+        <script src="../app.js" async defer></script>
     </body>
 </html>
     
