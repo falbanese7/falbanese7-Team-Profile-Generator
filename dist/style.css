@@ -1,0 +1,16 @@
+nav {
+    height: 150px;
+}
+
+.card {
+    width: 20rem;
+    padding: 0px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px auto;
+}
+
