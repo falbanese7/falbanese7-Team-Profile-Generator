@@ -31,6 +31,8 @@ This is a command-line application that takes in user-provided information about
 
 ## Usage
 
+[The Video Walkthrough can be found by clicking on this hyperlinked text.](https://drive.google.com/file/d/1wscDUCkuoHkPUd-saOFuxp7mhL-Xfk01/view?usp=sharing)
+
 1. Open the repository in a code edting application like Visual Studio Code
 2. Open the root directory of the repository
 3. Open an integrated terminal
